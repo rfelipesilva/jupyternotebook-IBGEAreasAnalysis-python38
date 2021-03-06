@@ -22,3 +22,4 @@ The data used in this analysis is coming from IBGE, the IBGE is the public insti
     - **AR_MUN_2020**    -> *square kilometers of the municipalities*
 - **Official location**: It's also possible to download the data direclty from IBGE portal, here it was decided to consider Brazil level but, it is possible to get it specific by state as well
     - [Brazil Municipalities XLSX link](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15761-areas-dos-municipios.html?t=acesso-ao-produto&c=1)
+    - ![alt text](../img/areas_territoriais_portal.PNG)
