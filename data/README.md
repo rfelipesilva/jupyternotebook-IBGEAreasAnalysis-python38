@@ -1,5 +1,5 @@
 # Where does this come from?
-The data used in this analysis is coming from IBGE, the IBGE is the public institute in charge of provide geographic and statistics information for Brazil.
+The data used in this analysis is coming from [IBGE](https://www.ibge.gov.br/pt/inicio.html), the IBGE is the public institute in charge of provide geographic and statistics information for Brazil.
 
 # What exactly is the data used in where can I find it?
 ## BR_Municipios_2020.shp
@@ -23,3 +23,6 @@ The data used in this analysis is coming from IBGE, the IBGE is the public insti
 - **Official location**: It's also possible to download the data direclty from IBGE portal, here it was decided to consider Brazil level but, it is possible to get it specific by state as well
     - [Brazil Municipalities XLSX link](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15761-areas-dos-municipios.html?t=acesso-ao-produto&c=1)
     - ![alt text](../img/areas_territoriais_portal.PNG)
+    
+# Remarks:
+- This repository is using Git LFS to handle with large files, if you're facing any issue, please refer to the official documentation
