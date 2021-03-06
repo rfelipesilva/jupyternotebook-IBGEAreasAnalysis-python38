@@ -6,3 +6,11 @@ data/shapefile/BR_Municipios_2019.sbn
 data/shapefile/BR_Municipios_2019.sbx
 data/shapefile/BR_Municipios_2019.shp
 data/shapefile/BR_Municipios_2019.shx
+.ipynb_checkpoints/README-checkpoint.md
+.ipynb_checkpoints/IBGE_Areas-checkpoint.ipynb
+data/xlsx/AR_BR_RG_UF_RGINT_RGIM_MES_MIC_MUN_2020.xls
+data/shapefile/BR_Municipios_2020.cpg
+data/shapefile/BR_Municipios_2020.dbf
+data/shapefile/BR_Municipios_2020.prj
+data/shapefile/BR_Municipios_2020.shp
+data/shapefile/BR_Municipios_2020.shx
