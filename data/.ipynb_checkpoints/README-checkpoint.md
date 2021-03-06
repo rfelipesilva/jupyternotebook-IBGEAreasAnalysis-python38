@@ -1,7 +1,7 @@
 # Where does this come from?
 The data used in this analysis is coming from [IBGE](https://www.ibge.gov.br/pt/inicio.html), the IBGE is the public institute in charge of provide geographic and statistics information for Brazil.
 
-# What exactly is the data used in where can I find it?
+# What exactly is the data used and where can I find it?
 ## BR_Municipios_2020.shp
 - **This is a shapefile with municipalities polygons from Brazil**
 - **Fields**:
