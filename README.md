@@ -20,4 +20,4 @@ This jupyter notebook was made to analyze the data from IBGE related to the muni
 
 5. Would you like to contribute? here are some ideas:
     - [ ] **Folium** -> to put a nice background map in the visualization
-    - [ ] **Interactive map** -> Maybe streamlit, just thinking loud.
+    - [ ] **Interactive map** -> Maybe streamlit, just thinking loud
