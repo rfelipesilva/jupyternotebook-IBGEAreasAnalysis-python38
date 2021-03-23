@@ -1,4 +1,4 @@
-# jupyternotebook-IBGEareasanalysis-python
+# IBGE areas analysis
 This jupyter notebook was made to analyze the data from IBGE related to the **Brazil** municipalities from 2020.
 
 ### Welcome! Here is basically what you need to start exploring that analysis:
